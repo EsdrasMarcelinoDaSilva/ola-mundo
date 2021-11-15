@@ -38,4 +38,4 @@ lista de tarefa:
 
 ![android-chrome-192x192](https://user-images.githubusercontent.com/94310938/141844896-296c4123-a818-42cd-b4d5-a3e985c251d8.png)
 
-[Acesse meu Humilde Projeto](https://esdrasmarcelinodasilva.github.io target="_blank")
+[Acesse meu Humilde Projeto](https://esdrasmarcelinodasilva.github.io)
