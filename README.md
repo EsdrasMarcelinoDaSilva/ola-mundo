@@ -34,4 +34,4 @@ lista de tarefa:
 
 - [x] criar um site
 - [ ] criar o menu do site
-- [ ] fazer de forma responsiva![android-chrome-512x512](https://user-images.githubusercontent.com/94310938/141844035-5c865df4-2750-43f4-a306-54e5daaad564.png)
+- [ ] fazer de forma responsiva
