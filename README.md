@@ -1,6 +1,6 @@
 # ola mundo
- repositorio-teste
+ **repositorio-teste**
 
-primeiro repositorio do curso
+*primeiro repositorio do curso*
 
 modificando e verificando alterações
