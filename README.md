@@ -1,6 +1,16 @@
-# ola mundo
- **repositorio-teste**
+# ola mundo (titulo niv-2)
+ ## repositorio-teste (titulo niv-1)
+### Aula de Markdown
+***
+__*Primeiro repositorio do curso*__ (negrito & itálico)
 
-*primeiro repositorio do curso*
+Modificando e __verificando alterações__
 
-modificando e verificando alterações
+**Negrito** (negrito)
+
+*itálico* (itálico)
+
+~~palavras riscadas~~ (palavras riscadas)
+
+
+
