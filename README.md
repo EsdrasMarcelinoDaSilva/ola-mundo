@@ -35,3 +35,5 @@ lista de tarefa:
 - [x] criar um site
 - [ ] criar o menu do site
 - [ ] fazer de forma responsiva
+
+![android-chrome-192x192](https://user-images.githubusercontent.com/94310938/141844896-296c4123-a818-42cd-b4d5-a3e985c251d8.png)
